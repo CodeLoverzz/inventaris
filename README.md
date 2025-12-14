@@ -1,5 +1,7 @@
 Sistem Informasi Inventaris Barang Berbasis Web
   Deskripsi Singkat
+  username: admin
+  password: admin123
 Sistem Informasi Inventaris Barang merupakan aplikasi berbasis web yang digunakan untuk mengelola data inventaris secara terstruktur. Sistem ini dirancang untuk membantu proses pencatatan barang agar lebih rapi, terpusat, dan mudah diakses dibandingkan pencatatan manual.
 Proyek ini dibuat sebagai **mini project Sistem Informasi** dengan ruang lingkup sederhana namun fungsional.
   
